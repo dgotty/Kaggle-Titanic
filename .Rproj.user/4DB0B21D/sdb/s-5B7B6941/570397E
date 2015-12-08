@@ -1,0 +1,18 @@
+{
+    "contents" : "y <- \"hello\"\nz <- 1:20\n",
+    "created" : 1449615077982.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "361301673",
+    "id" : "570397E",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
